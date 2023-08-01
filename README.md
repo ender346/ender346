@@ -1,7 +1,6 @@
 ## <center> Hi there 👋 </center>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
-
 # Backend and Mobile Development Programmer
 
 I am a student of Computer Systems Engineering who is passionate about technology.
