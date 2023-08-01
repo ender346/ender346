@@ -30,10 +30,8 @@ Topics of expertise include:
 - Cross-Site Scripting (XSS)
 - XML Injection
 - SQL Injection
-</br>
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+![Texto alternativo](https://icons8.com/icon/13679/java)
+
 <!--
 **ender346/ender346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
