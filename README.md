@@ -31,8 +31,7 @@ Topics of expertise include:
 - XML Injection
 - SQL Injection
 <br>
-![Texto alternativo](https://icons8.com/icon/13679/java)
-
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 <!--
 **ender346/ender346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
