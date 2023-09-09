@@ -22,6 +22,7 @@ I am a student of Computer Systems Engineering who is passionate about technolog
 - C#
 - HTML5 and CSS3
 - Docker
+- ASP.NET
 
 ------------------------
 
@@ -54,7 +55,6 @@ switch (operador) {
             case '*':
                 resultado = num1 * num2;
                 break;
-            case '/':
 
 ```
 
