@@ -1,4 +1,4 @@
-## <center> Hi there 👋 </center>
+##  Hi there 👋
 
 
 # Backend and Mobile Development Programmer
@@ -46,18 +46,38 @@ class animal {
 
 ----------------
 
-```JAVA
+```C#
+// Ejemplo de POO en C#
 
-switch (operador) {
-            case '+':
-                resultado = num1 + num2;
-                break;
-            case '-':
-                resultado = num1 - num2;
-                break;
-            case '*':
-                resultado = num1 * num2;
-                break;
+using System;
+
+class Persona
+{
+    public string Nombre { get; set; }
+    public int Edad { get; set; }
+
+    public Persona(string nombre, int edad)
+    {
+        this.Nombre = nombre;
+        this.Edad = edad;
+    }
+
+    public void Hablar()
+    {
+        Console.WriteLine("Hola, mi nombre es {0} y tengo {1} años", this.Nombre, this.Edad);
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Persona persona = new Persona("Juan", 20);
+
+        persona.Hablar();
+    }
+}
+
 
 ```
 
