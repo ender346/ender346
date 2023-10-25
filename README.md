@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-Soy un estudiante de Ingeniería en sistemas computacionales, me gusta la tecnología y me interesa el mundo de la ciberseguridad y el hacking etico, algunas de las certificaciones de empresas como: Microsoft, Huawuei, ec-council, google, Cisco, CISA, Free Code Camp , META y AMAZON, algunas de las certificacions que tengo son la SC-900, SC-200, entre otras. 
+Soy un estudiante de Ingeniería en sistemas computacionales, me gusta la tecnología y me interesa el mundo de la ciberseguridad y el hacking etico, cuento con certificaciones y formacion de empresas como: Microsoft, Huawuei, EC-Council, Google, Cisco, CISA, Free Code Camp , META y Amazon, algunas de las certificacions que tengo son la SC-900, SC-200, entre otras. 
 
 # 💻 Tech Stack:
 ### Estas son las tecnologias con las que he trabajado y con las que hago proyectos.
