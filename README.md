@@ -1,6 +1,11 @@
 # 💫 About Me:
 Soy un estudiante de Ingeniería en sistemas computacionales, me gusta la tecnología y me interesa el mundo de la ciberseguridad y el hacking etico, cuento con certificaciones y formación de empresas como: Microsoft, Huawei, EC-Council, Google, Cisco, CISA, Free Code Camp , Meta y Amazon, entre otras, algunas de las certificaciones que tengo son la SC-900, SC-200, SC-100 entre otras.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/emanuel-hern%C3%A1ndez-8b365a267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josejesusguzman" height="30" width="40" /></a>
+<a href="https://www.instagram.com/enderblackhat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brujeriatech" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 ## Estas son las tecnologias con las que he trabajado y con las que hago proyectos.
