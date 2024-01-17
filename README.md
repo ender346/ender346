@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emanuel ~</h1>
-<h3 align="center">Soy un estudiante de Ingeniería en sistemas computacionales, me gusta la tecnología y me interesa el mundo de la ciberseguridad y el hacking etico, cuento con certificaciones y formación de empresas como: Microsoft, Huawei, EC-Council, Google, Cisco, CISA, Free Code Camp , Meta y Amazon, entre otras, algunas de las certificaciones que tengo son la SC-900, SC-200, SC-100 entre otras.</h3>
+<h3 align="center">Soy un estudiante de Ingeniería en sistemas computacionales, me gusta la tecnología y me interesa el mundo de la ciberseguridad y el hacking etico, cuento con certificaciones y formación de empresas como: Microsoft, Huawei, EC-Council, Google, Cisco, CISA, Free Code Camp , y Amazon, entre otras.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
